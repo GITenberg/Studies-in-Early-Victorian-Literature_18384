@@ -1,0 +1,30 @@
+_repo: Studies-in-Early-Victorian-Literature_18384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Frederic
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '5960'
+    url: http://www.gutenberg.org/2009/agents/5960
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Harrison
+description: ''
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcc 'PR'
+tableOfContents: Characteristics of Victorian literature -- Thomas Carlyle -- Lord
+  Macaulay -- Benjamin Disraeli -- William Makepeace Thackeray -- Charles Dickens
+  -- Charlotte Bronte -- Charles Kingsley -- Anthony Trollope -- George Eliot.
+title: Studies in Early Victorian Literature
+url: http://www.gutenberg.org/ebooks/18384
